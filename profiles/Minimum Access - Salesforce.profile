@@ -10464,16 +10464,6 @@
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true</editable>
-        <field>Account.DummyCField2__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Account.DummyCField__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
         <editable>false</editable>
         <field>Account.Fax</field>
         <readable>false</readable>
@@ -30528,9 +30518,6 @@
         <field>vlocity_cmt__VqResource__c.vlocity_cmt__TargetObjectType__c</field>
         <readable>false</readable>
     </fieldPermissions>
-    <layoutAssignments>
-        <layout>Image-Image Layout</layout>
-    </layoutAssignments>
     <layoutAssignments>
         <layout>ProcessException-Formato Excepción de proceso</layout>
     </layoutAssignments>

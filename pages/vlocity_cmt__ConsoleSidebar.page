@@ -110,7 +110,7 @@
                 sforce.console.getEnclosingPrimaryTabObjectId(load);
             } else {
                 console.info('outside console');
-                var result = { id:'0012X000022QT4G' };
+                var result = { id:'0012X000022QT7m' };
                 load(result);
             }
         };
@@ -235,7 +235,7 @@
                 sforce.console.getEnclosingPrimaryTabObjectId(load);
             } else {
                 console.info('outside console');
-                var result = { id:'0012X000022ILBM' };
+                var result = { id:'0012X0000215ZWv' };
                 load(result);
             }
         };
@@ -315,7 +315,7 @@
                 sforce.console.getEnclosingPrimaryTabObjectId(load);
             } else {
                 console.info('outside console');
-                var result = { id:'0012X000022ILBM' };
+                var result = { id:'0012X0000215ZWv' };
                 load(result);
             }
         };

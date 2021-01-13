@@ -58,7 +58,7 @@
         <referrerPolicy>true</referrerPolicy>
         <requireHttpOnly>false</requireHttpOnly>
         <requireHttps>true</requireHttps>
-        <sessionTimeout>TwoHours</sessionTimeout>
+        <sessionTimeout>FifteenMinutes</sessionTimeout>
     </sessionSettings>
     <singleSignOnSettings>
         <enableCaseInsensitiveFederationID>false</enableCaseInsensitiveFederationID>

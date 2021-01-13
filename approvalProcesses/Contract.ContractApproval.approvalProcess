@@ -16,7 +16,7 @@
         <allowDelegate>true</allowDelegate>
         <assignedApprover>
             <approver>
-                <name>developers@copado.com.vusrvo-016648</name>
+                <name>developers@copado.com.vusrvo-016649</name>
                 <type>user</type>
             </approver>
             <whenMultipleApprovers>FirstResponse</whenMultipleApprovers>
